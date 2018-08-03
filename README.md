@@ -1,4 +1,4 @@
-Crystal Collector Game
+# Crystal Collector Game
 
 This is a simple game built with Javascript and jQuery.
 
